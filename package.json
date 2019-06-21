@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@applitools/eyes-selenium": "^4.18.1",
+    "@applitools/eyes-selenium": "^4.20.3",
     "eyes.selenium": "^3.6.3",
     "selenium-webdriver": "^3.6.0"
   }
